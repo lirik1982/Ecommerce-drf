@@ -1,0 +1,13 @@
+[
+{ "model" : "auth.user",
+    "pk" : 1,
+    "fields":{
+        "username" : "root",
+        "password" : "pbkdf2_sha256$600000$9ia5X9JNOWxwPl3m233BDY$do/w7G5N/9AmPkowIQXxrNvGsPsmwfb+b/M2IrJBYAk=",
+        "email" : "www@ya.ru",
+        "is_superuser" : true,
+        "is_staff" : true, 
+        "is_active" : true
+    }
+}
+]
